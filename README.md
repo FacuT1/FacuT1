@@ -1,4 +1,11 @@
-### Hi there 👋
+
+
+- 🇺🇾 I’m from Uruguay
+- 🚀 I’m currently learning HTML and CSS
+- 🥇 I’m currently working on Proyects
+- 📫 How to reach me by gmail: FacundoTabeira10@gmail.com
+
+
 
 <!--
 **FacuT1/FacuT1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
